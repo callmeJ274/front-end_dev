@@ -1,6 +1,6 @@
 /* Global Variables */
 // Personal API Key for OpenWeatherMap API
-const API_KEY = "57599ff1f3msh5e89034335ee1ddp100a5fjsndc3b651795c4";
+const API_KEY = "";
 const baseURL = "https://weatherbit-v1-mashape.p.rapidapi.com/current?";
 
 // Async GET
