@@ -1,7 +1,7 @@
 /* Global Variables */
 // Personal API Key for OpenWeatherMap API
 KEY = "";
-const API_KEY = `us&appid=${KEY}`;
+const API_KEY = `us&appid=${KEY}&units=imperial`;
 const baseURL = "https://api.openweathermap.org/data/2.5/weather?zip=";
 
 // Convert date
